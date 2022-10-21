@@ -7,3 +7,7 @@ ls env cd env cd Scripts
 activate
 
 pip install django
+
+ pip install -r  requirements.txt
+
+ django-admin startproject core .
