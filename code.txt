@@ -1,0 +1,9 @@
+pip install virtualenv
+
+virtualenv nombre"env"
+
+ls env cd env cd Scripts
+
+activate
+
+pip install django
